@@ -10,9 +10,9 @@ i'm bee, im a trans hobbyist developer who mainly writes in python!
 
 ### **my stats**
     
-i have pushed **10** commits    
+i have pushed **15** commits    
 i have submitted **1** pull requests     
-i own **13** repositories
+i own **15** repositories
 
 ### **currently listening to**
 
