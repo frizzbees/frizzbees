@@ -12,7 +12,7 @@ i'm bee, im a trans hobbyist developer who mainly writes in python!
     
 i have pushed **17** commits    
 i have submitted **1** pull requests     
-i own **15** repositories
+i own **16** repositories
 
 ### **currently listening to**
 
