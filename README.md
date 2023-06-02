@@ -11,7 +11,7 @@ i'm bee, im a trans hobbyist developer who mainly writes in python!
 ### **my stats**
     
 i have pushed **17** commits    
-i have submitted **1** pull requests     
+i have submitted **2** pull requests     
 i own **19** repositories
 
 ### **currently listening to**
