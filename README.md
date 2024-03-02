@@ -6,11 +6,11 @@ i'm bee, im a trans hobbyist developer who mainly writes in python!
 -   my pronouns are she/her
 -   i'm a beginner programmer
 -   i have pets
--   i am bi
+-   i am pan
 
 ### **my stats**
     
-i have pushed **19** commits    
+i have pushed **20** commits    
 i have submitted **2** pull requests     
 i own **24** repositories
 
