@@ -6,7 +6,7 @@ i'm bee, im a trans hobbyist developer who mainly writes in python!
 -   my pronouns are she/her
 -   i'm a beginner programmer
 -   i have pets
--   i am bi
+-   i am pan
 
 ### **my stats**
     
